@@ -7,8 +7,4 @@ npm install mongodb
 Add your connection string into your application code
 Use this connection string in your application
 
-￼
-View full code sample
-
-mongodb+srv://badkur622ruchi:cIEVyjs4MWJITkma@cluster0.h5fqd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
